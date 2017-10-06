@@ -1,12 +1,32 @@
-<html>
-<head>
-  <link rel="anExternal" href="anExternal.css">
-</head>
-<body>
+body {
+    background-color: cornsilk;
+}
+p1  {
+color: navy;
+font-family: calibri;
+font-size: 160%;
+border: 1px solid powderblue;
+margin: 50px;
+}
+img {
+float: right;
+margin: 0 0 10px 10px;
+}
+p2  {
+color: navy;
+font-family: Lucida Handwriting;
+font-size: 160%;
+border: 1px solid powderblue;
+padding: 30px;
+border: 1px dotted blue;
+}
+#rcorners1 {
+border-radius: 25px;
+background: #73AD21;
+padding: 20px; 
+width: 200px;
+height: 150px; 
+}
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
 
-</body>
-</html>
 
