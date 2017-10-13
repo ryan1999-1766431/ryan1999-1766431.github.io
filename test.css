@@ -1,7 +1,53 @@
 <head>
-#Header {
-    border:solid 8px #F58686;
-}
     <title> Keith the QB </title>
     <link rel="stylesheet" type="text/css" href="test.css"/>
 </head>
+
+body{
+
+}
+
+p{
+
+
+}
+
+h3{
+
+}
+
+li{
+
+}
+
+#Header{
+    border:solid 8px #F58686;
+}
+
+#Header h1{
+
+}
+
+#LeftNav{
+    border:solid 8px #F58686;
+}
+
+#LeftNav img{
+    
+}
+
+#LeftNav u1{
+    
+}
+
+#LeftNav h3{
+    
+}
+
+#Content{
+    border:solid 8px #F58686;
+}
+
+#Footer{
+    border:solid 8px #F58686;
+}
