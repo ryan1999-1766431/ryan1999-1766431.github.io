@@ -1,5 +1,40 @@
 <head>
 <title> Job Application </title>
 <link rel="stylesheet" type="text/css" href="jobapplicationoutline.css"/>
-<link href="https://fonts.googleapis.com/css?family=Passion+One" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Rye" rel="stylesheet">
 </head>
+
+body {
+    background-image: url("bgnoise_lg.png");
+}
+
+h1{
+    text-align: center;
+    background-color: #1E56A0; 
+    color: white;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    border:dotted 3px #EEEB38;
+    padding: 25px;   
+    margin: 25px;
+}
+
+img{
+    float: right;
+    overflow: auto;
+}
+
+legend{
+    background-color: #D6E4F0;
+    border:dotted 3px #182CA0;
+    line-height: 3.0; 
+
+}
+
+fieldset{
+    background-color: #89B0E4;
+    color: #163172;
+    font-family: 'Rye', cursive;
+    border:outset 8px #A3B9F0;   
+    line-height: 3.0; 
+}
